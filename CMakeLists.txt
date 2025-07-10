@@ -37,7 +37,6 @@ pico_sdk_init()
 
 add_executable(TESTE_teclado_matricial_BITDOGLAB 
         main.c 
-        teclado.c
         )
 
 pico_set_program_name(TESTE_teclado_matricial_BITDOGLAB "TESTE_teclado_matricial_BITDOGLAB")
