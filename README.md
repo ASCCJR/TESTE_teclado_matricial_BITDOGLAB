@@ -1,4 +1,4 @@
-# 🎮 Teclado Matricial 4x4 para BitDogLab Pico  
+# 🎮 Teclado Matricial 4x4 na BitDogLab 
 
 ![Linguagem](https://img.shields.io/badge/Linguagem-C-blue.svg)  ![Plataforma](https://img.shields.io/badge/Plataforma-BitDogLab_Pico-purple.svg)  ![Interface](https://img.shields.io/badge/Interface-USB%20Serial-green.svg)  ![Conector](https://img.shields.io/badge/Conector-Peripheral_14pin-orange.svg)  
 
