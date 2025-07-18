@@ -2,6 +2,9 @@
  * @file keypad.c
  * @brief Implementação do driver para o teclado matricial 4x4.
  * Inclui uma rotina de varredura não-bloqueante com debounce por software.
+ */
+
+/**
  * https://github.com/ASCCJR
  */
 
