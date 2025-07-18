@@ -79,11 +79,9 @@ Tecla pressionada: #
 
 ## 📌 **Dicas Importantes**  
 
-🔹 **Pull-ups internos** são usados (sem resistores externos necessários)  
-🔹 **Debounce ajustado** para evitar duplas leituras  
+🔹 **Pull-ups internos** 
 🔹 **Pronto para integração** com outros projetos  
 
 ---
 
 ✍️ **Autor**: **Antonio Sergio Castro de Carvalho Junior**  
-🔗 **Repositório**: [TESTE_teclado_matricial_BITDOGLAB](https://github.com/ASCCJR/TESTE_teclado_matricial_BITDOGLAB)  
