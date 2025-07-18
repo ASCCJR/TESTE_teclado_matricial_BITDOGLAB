@@ -1,6 +1,6 @@
 # 🎮 Teclado Matricial 4x4 na BitDogLab 
 
-![Linguagem](https://img.shields.io/badge/Linguagem-C-blue.svg)  ![Plataforma](https://img.shields.io/badge/Plataforma-BitDogLab_Pico-purple.svg)  ![Interface](https://img.shields.io/badge/Interface-USB%20Serial-green.svg)  ![Conector](https://img.shields.io/badge/Conector-Peripheral_14pin-orange.svg)  
+![Linguagem](https://img.shields.io/badge/Linguagem-C-blue.svg)  ![Plataforma](https://img.shields.io/badge/Plataforma-BitDogLab-purple.svg)  ![Interface](https://img.shields.io/badge/Interface-USB%20Serial-green.svg)  ![Conector](https://img.shields.io/badge/Conector-Peripheral_14pin-orange.svg)  
 
 Este projeto implementa um driver para teclado matricial 4x4 na **BitDogLab**, utilizando o **conector periférico de 14 pinos** com o adaptador dedicado que vem no kit de periféricos.
 
